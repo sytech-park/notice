@@ -7,7 +7,7 @@
 #1. 교육자료
 ==
 
-[https://1drv.ms/b/s!AvcoqK73BVI34xvKLJs55HNS5nI7](https://1drv.ms/b/s!AvcoqK73BVI34xvKLJs55HNS5nI7)
+[https://sytech-park.github.io/notice/study.pdf](study.pdf)
 
 오피스에서 교육했던 교육 자료는
 

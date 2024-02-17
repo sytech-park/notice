@@ -4,10 +4,8 @@
 
 
 
+#1. 교육자료
 
-
-1. 교육자료
-============
 
 [https://1drv.ms/b/s!AvcoqK73BVI34xvKLJs55HNS5nI7](https://1drv.ms/b/s!AvcoqK73BVI34xvKLJs55HNS5nI7)
 
@@ -17,12 +15,14 @@
 
 
 
-2. P-EHS 시험 
-==========
+#2. P-EHS 시험 
+
 
 ![](image.png)
 
-삼성디스플레이에서 위와같은 카톡이 오면
+삼성디스플레이에서
+
+위와같은 카톡이 오면
 
 [https://green.samsungdisplay.com/login.jsp](https://green.samsungdisplay.com/login.jsp)
 
@@ -46,8 +46,7 @@
 '합격' 이 될 때까지 시험 응시.
 
 
-3. 시험 합격 후
-==========
+#3. 시험 합격 후
 
 
 P-EHS 시스템에서
